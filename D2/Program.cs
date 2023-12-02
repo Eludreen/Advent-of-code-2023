@@ -217,5 +217,5 @@ using (var sr = new StreamReader(path))
         }
     }
 }
-
-Console.WriteLine(total_power);
+Console.WriteLine("Q1 = " + gameNum);
+Console.WriteLine("Q2 = " + total_power);
