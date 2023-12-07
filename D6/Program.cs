@@ -38,8 +38,8 @@ Console.WriteLine("Q1" + total);
 
 
 //Q2
-Int64 time = 50748685;
-Int64 bigDist = 242101716911252;
+Int64 time = inputTime;
+Int64 bigDist = inputDist;
 int combination = 0;
 for (int j = 0; j < time; j++)
 {
